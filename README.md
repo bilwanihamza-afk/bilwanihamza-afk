@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Hamza! <br/> 
 
-<!--
-**bilwanihamza-afk/bilwanihamza-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🚀 Problem Solver | 🌱 Lifelong Learner 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building end-to-end solutions — from crafting intuitive UIs to designing robust backends.  
+
+
+### 🛠️ Tech Stack
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, Express, Django  
+- Databases: PostgreSQL, MongoDB  
+- Tools: Docker, GitHub Actions, AWS
+
+
+### 🌟 What I’m up to
+- 🔭 Working on [Project Name] – [short description]  
+- 🌱 Learning about microservices & cloud-native architectures  
+- 💡 Exploring new ways to optimize performance in web apps  
+
+
+### 📌 Featured Projects
+- [Project A](https://www.betterthelabel.com/) – Worked on this client's Squarespace website and did major changes  
+- [Project B](link) – description
+- [Project C](link) – description
+
+
+### 📫 Let’s Connect
+[twitter]: https://twitter.com/hamzabilwani
+[youtube]: https://www.youtube.com/@bilwanizvlogs
+[instagram]: https://www.instagram.com/bilwanizvlogs/
