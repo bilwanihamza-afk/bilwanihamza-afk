@@ -14,8 +14,8 @@ I love building end-to-end solutions — from crafting intuitive UIs to designin
 
 
 ### 🌟 What I’m up to
-- 🔭 Working on [Project Name] – [short description]  
-- 🌱 Learning about microservices & cloud-native architectures  
+- 🔭 Working on [Wordpress Websites] – [Re-programming]  
+- 🌱 Learning about backend languages in detail 
 - 💡 Exploring new ways to optimize performance in web apps  
 
 
@@ -25,7 +25,7 @@ I love building end-to-end solutions — from crafting intuitive UIs to designin
 - [Project C](link) – description
 
 
-### 📫 Let’s Connect
-[twitter]: https://twitter.com/hamzabilwani
-[youtube]: https://www.youtube.com/@bilwanizvlogs
-[instagram]: https://www.instagram.com/bilwanizvlogs/
+### 📫 Let’s Connect  
+[YouTube](https://www.youtube.com/@bilwanizvlogs) | 
+[Instagram](https://www.instagram.com/bilwanizvlogs/)
+
