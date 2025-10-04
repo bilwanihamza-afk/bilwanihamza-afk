@@ -20,9 +20,9 @@ I love building end-to-end solutions — from crafting intuitive UIs to designin
 
 
 ### 📌 Featured Projects
-- [Project A](https://www.betterthelabel.com/) – Worked on this client's Squarespace website and did major changes  
-- [Project B](link) – description
-- [Project C](link) – description
+- [Project A](https://www.betterthelabel.com/) – Worked on this client's Squarespace website and did major structural changes  
+- [Project B](https://toakchocolate.com/) Redesigned the luxury chocolate brand’s website to enhance user experience, modernize visuals, and improve overall site performance. 
+- [Project C](https://www.pindara.com.au/) Updated and optimized the hospital’s website to improve user engagement, streamline navigation, and boost conversion performance.
 
 
 ### 📫 Let’s Connect  
